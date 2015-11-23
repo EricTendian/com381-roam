@@ -1,5 +1,7 @@
---- layout: post title:
-"Introduction" ---
+---
+layout: post
+title: "Introduction"
+---
 
 The goal of the app is to
 encourage users to walk more by creating walking routes that pass users
