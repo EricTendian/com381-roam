@@ -16,3 +16,20 @@ their steps taken, and the points are shared via social networking
 plugins. Users who obtain certain thresholds of points are then allowed
 to input descriptions of "non-conventional" landmarks, such as their own
 homes or places of personal significance.
+
+### Context
+
+- Event
+- Historical info
+- Places of interest
+- Social media integration
+- Location-bound geotagging/geofencing
+- Daily challenge - visit a place and get points
+
+### Users
+
+- City of Chicago residents
+- Tourists
+- Big cities/populus areas
+- Younger people (culturally and technologically inclined)
+
