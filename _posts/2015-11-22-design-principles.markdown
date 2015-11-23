@@ -21,7 +21,7 @@ Start with a tour of the Eiffel Tower in Paris to drive home point
 
 ### Accessibility
 
-Text and audio. AUdio of the area with a description.
+Text and audio. Audio of the area with a description.
 
 ### Iconic Representation
 
