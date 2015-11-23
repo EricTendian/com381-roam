@@ -1,5 +1,16 @@
----
-layout: post
-title:  "Introduction"
----
-We introduce the app here
+--- layout: post title:
+"Introduction" ---
+
+The goal of the app is to
+encourage users to walk more by creating walking routes that pass users
+by cultural or otherwise interesting points. The idea is to take Google
+walking directions and tweak them so that users walk past something they
+want to learn more about (i.e.: the Sears tower, a historical museum,
+place where a random celebrity died in the '70's, etc.). The walking
+routes mimic an ethnographic experience for users within an area.
+Cultural points also have descriptions within the app so users can learn
+more about a particular landmark. Users also accumulate points based on
+their steps taken, and the points are shared via social networking
+plugins. Users who obtain certain thresholds of points are then allowed
+to input descriptions of "non-conventional" landmarks, such as their own
+homes or places of personal significance.
