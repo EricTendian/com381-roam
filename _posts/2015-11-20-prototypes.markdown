@@ -7,4 +7,4 @@ You can view our mockup at [moqups.com/erictendian@gmail.com/OXdwy1ia](https://m
 
 A logo for Roam:
 
-![Roam logo](/roam_logo.jpg)
+![Roam logo](./roam_logo.jpg)
