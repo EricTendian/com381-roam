@@ -2,13 +2,14 @@
 layout: post
 title:  "Essential Features"
 ---
--Walking routes based on destination(s)
--Map walking routes to cultural sites of interest
--Smartphone camera scans surroundings, recognizes landmarks; comments
--Annotated walking tours
--Tracks steps/distance
--User submissions of "non-standard" landmarks (personal homes/apartments, etc.)
--Walking challenges worth points; social networking plugin
--Small business support
--Goal: Encourage users to walk to interesting sites and learn about cultural landmarks. Route walking paths to sites
+
+- Walking routes based on destination(s)
+- Map walking routes to cultural sites of interest
+- Smartphone camera scans surroundings, recognizes landmarks; comments
+- Annotated walking tours
+- Tracks steps/distance
+- User submissions of "non-standard" landmarks (personal homes/apartments, etc.)
+- Walking challenges worth points; social networking plugin
+- Small business support
+- Goal: Encourage users to walk to interesting sites and learn about cultural landmarks. Route walking paths to sites
 based on interests.
