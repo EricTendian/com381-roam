@@ -8,6 +8,7 @@ TODO:
 1. Fix persona formatting (separate demographic and non-demo info)
 2. Write script for Usability Test
 3. Come up with questions for Heuristic Evaluation
+4. Reasoning for both of our methods
 
 ### Persona
 
